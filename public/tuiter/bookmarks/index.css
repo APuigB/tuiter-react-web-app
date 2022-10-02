@@ -1,0 +1,119 @@
+body {
+    background-color: black;
+}
+
+.wd-margin-16left {
+    margin-left: 16px;
+}
+
+.wd-pos-12pixtop {
+    position : relative;
+    top: 12px;
+}
+
+.wd-font-title {
+    color : white;
+    font-size: 20px;
+}
+
+.wd-font-subtitle {
+    color: lightgrey;
+    font : 13px
+}
+
+.wd-fg-color-white {
+    color: white;
+}
+
+.wd-border-1 {
+    color : lightgrey;
+    border-style: solid;
+    border-bottom-width: 1px;
+}
+
+.wd-margin-12pxtop {
+    margin-top: 12px;
+}
+
+.wd-margin-12pxleft {
+    margin-left: 12px;
+}
+
+.wd-font-author {
+    color : white;
+    font-size: 15px;
+}
+
+.wd-font-authorhandle {
+    color : lightgrey;
+    font-size: 15px;
+}
+.wd-floatleft {
+    float : left;
+}
+
+.wd-font-text {
+    color : white;
+    font-size: 15px;
+    max-width: 506px;
+}
+
+.wd-margin76px {
+    margin-left: 76px;
+}
+
+.wd-margintop {
+    margin-top: 4px;
+}
+
+.wd-margin-right16px {
+    margin-right: 16px;
+}
+
+.wd-margin-bottom12px {
+    margin-bottom: 12px;
+}
+
+.wd-rounded-corners-top {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.wd-font-boldtitle {
+    color : white;
+    font-size: 15px;
+}
+
+.wd-font-grey15px {
+    color : lightgrey;
+    font-size: 15px;
+    max-width: 506px;
+}
+
+.wd-padding-allsides {
+    padding: 12px;
+}
+
+.wd-font-lasthyperlinks {
+    color : lightgrey;
+    font : 12px;
+    text-decoration: none;
+}
+
+.wd-font-red {
+    color : red;
+    font : 12px;
+    text-decoration: none;
+}
+
+.wd-distance-icons {
+    margin-left: 12px;
+}
+
+.wd-distance-numbers {
+    margin-left: 72px;
+}
+
+.wd-margin-72pxleft {
+    margin-left: 72px;
+}
