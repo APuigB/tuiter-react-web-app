@@ -39,6 +39,7 @@ const ExploreComponent = () => {
                     SpaceX Starship</h1>
             </div>
 
+
         </>
     );
 };
